@@ -10,3 +10,5 @@ Each language has its own subfolder. In general, each subfolder has two example 
 # Warning
 
 Please use these at your own risk. ALWAYS test with small amounts first.
+
+The best test is made by virtual money that you might use by adding your personal software
